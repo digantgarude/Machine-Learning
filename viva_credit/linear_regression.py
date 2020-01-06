@@ -1,6 +1,8 @@
 import pandas as pd
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import mean_squared_error,r2_score
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler 
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -16,7 +18,7 @@ Y_test = data.iloc[25000:,-1]
 # print(X_test.head())
 # print(Y_test.head())
 
-reg = LinearRegression()
+reg = LogisticRegression()
 
 reg.fit(X_train,Y_train)
 
