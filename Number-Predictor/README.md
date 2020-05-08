@@ -20,4 +20,4 @@ python number_predictor.py
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
