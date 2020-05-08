@@ -1,7 +1,5 @@
 # Machine Learning
 
-- This repo contains some projects that I've learned from tutorials online and some personal ML projects.
-
 - [Spam Classification Using Naive Bayes Classifier](https://github.com/digantgarude/Machine-Learning/tree/master/SpamClassifier)
 
 - [Credit Card Fraud Detection Using Pycaret](https://github.com/digantgarude/Machine-Learning/tree/master/Credit-Card-Fraud)
