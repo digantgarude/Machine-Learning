@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def welcome():
-    return "Hello !"
+    return "<h2>Hello !</h2>"
 
 @app.route('/predict')
 def predict():
