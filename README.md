@@ -4,6 +4,8 @@ Checkout some live projects here -> [ML Projects](https://mldg.herokuapp.com)
 
 - [Covid 19 Face Mask Detector](https://github.com/digantgarude/Machine-Learning/tree/master/CovidFaceMaskDetector)
 
+- [Car Price Prediction based on car dekho dataset](https://github.com/digantgarude/Machine-Learning/tree/master/CarPricePrediction)
+
 - [Spam Classification Using Naive Bayes Classifier](https://github.com/digantgarude/Machine-Learning/tree/master/SpamClassifier)
 
 - [Credit Card Fraud Detection Using Pycaret](https://github.com/digantgarude/Machine-Learning/tree/master/Credit-Card-Fraud)
