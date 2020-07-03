@@ -1,6 +1,6 @@
 # Machine Learning
 
-[Some Live Projects](https://mldg.herokuapp.com) 
+Checkout some live projects here -> [ML Projects](https://mldg.herokuapp.com) 
 
 - [Covid 19 Face Mask Detector](https://github.com/digantgarude/Machine-Learning/tree/master/CovidFaceMaskDetector)
 
